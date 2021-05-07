@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marique3596
-- 👀 I’m interested in CSS3 and JavaScript
-- 🌱 I’m currently learning HTML5
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning HTML5, CSS3 and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
